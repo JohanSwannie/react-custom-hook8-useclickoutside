@@ -1,5 +1,7 @@
+import ClickOutsideComponent from "./ClickOutsideComponent";
+
 function App() {
-  return <div className="App"></div>;
+  return <ClickOutsideComponent />;
 }
 
 export default App;
