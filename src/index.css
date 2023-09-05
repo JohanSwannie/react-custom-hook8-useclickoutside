@@ -7,8 +7,19 @@
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  user-select: none;
 }
 
 body {
   background-color: papayawhip;
+}
+
+button {
+  color: #FFF;
+  background-color: blue;
+  padding: 1rem;
+}
+
+span {
+  align-content: center;
 }
